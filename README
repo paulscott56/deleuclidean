@@ -1,0 +1,10 @@
+De.licio.us link recommendation script
+
+To use: Edit del.py and add in your own username and execute. This script should be used as a part of a larger app, or as a webservice 
+or analysis tool.
+
+You will also need the Python feedparser module. On Ubuntu apt-get install python-feedparser
+
+Any issues or suggestions, please email me at pscott@uwc.ac.za
+
+
